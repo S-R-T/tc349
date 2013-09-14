@@ -1,3 +1,3 @@
-h1 {
-
+function hello() {
+  alert(navigator.appVersion);
 }
