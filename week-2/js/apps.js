@@ -1,15 +1,15 @@
-var Hello, sUsrAg = navigator.userAgent;
+var sBrowser, sUsrAg = navigator.userAgent;
 
 if(sUsrAg.indexOf("Chrome") > -1) {
-    Hello = "Google Chrome";
+    sBrowser = "Google Chrome";
 } else if (sUsrAg.indexOf("Safari") > -1) {
-    Hello = "Apple Safari";
+    sBrowser = "Apple Safari";
 } else if (sUsrAg.indexOf("Opera") > -1) {
-    Hello = "Opera";
+    sBrowser = "Opera";
 } else if (sUsrAg.indexOf("Firefox") > -1) {
-    Hello = "Mozilla Firefox";
+    sBrowser = "Mozilla Firefox";
 } else if (sUsrAg.indexOf("MSIE") > -1) {
-    Hello = "Microsoft Internet Explorer";
+    sBrowser = "Microsoft Internet Explorer";
 }
 
-alert("You are using: " + Hello);
+alert("You are using: " + sBrowser);
