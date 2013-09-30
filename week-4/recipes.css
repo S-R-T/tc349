@@ -1,14 +1,16 @@
 body{
-  background: #245;
+  background: #ccc;
+  border-top: 5px solid #424242;
+  margin:; 0;
 }
 
-.r-title {
-  color: #aaa;
+h1 {
+  margin: 0;
 }
 
-#recipes {
-  border: 5px solid #ccc;
-  padding: 10px;
-  margin: 10px;
-  background: #f3f3f3;
+.container {
+  margin: 0 auto;
+  padding: 15px;
+  width: 600px;
+  background: #fff;
 }
