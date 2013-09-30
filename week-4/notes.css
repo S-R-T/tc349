@@ -3,7 +3,7 @@ body{
   border-top: 7px solid #424242;
   margin: 0;
   font-family: "Arial", Bold;
-  line-height: 1.4em;
+  line-height: 2em;
 }
 
 h1, h2, h3 {
@@ -11,7 +11,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  padding: 20px 5px;
+  padding: 20px 25px;
   background: #241345;
   color: #acf;
   Text-shadow: 1px 1px 2px #424242;
