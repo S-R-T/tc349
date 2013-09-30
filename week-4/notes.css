@@ -2,12 +2,12 @@ body{
   background: #ccc;
   border-top: 5px solid #424242;
   margin: 0;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Marker Felt", Bold;
   line-height: 1.4em;
 }
 
 h1, h2, h3 {
-  margin: 0;
+  margin: 0.5;
 }
 
 h1 {
@@ -15,6 +15,10 @@ h1 {
   background: #aaa;
   color: #fff;
   Text-shadow: 1px 1px 2px #424242;
+}
+
+h2 {
+  text-align: center;
 }
 
 h3{
@@ -34,6 +38,9 @@ h3{
 table, tr, td {
   border: 1px solid #ccc;
   border-collapse: collapse;
+}
+table tr {
+  margin: 0;
 }
 
 table td {
