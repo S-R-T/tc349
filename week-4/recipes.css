@@ -7,5 +7,6 @@ body{
 }
 
 #recipes {
-  background #aaa;
+  border: 5px solid #ccc;
+  padding: 10px;
 }
