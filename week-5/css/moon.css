@@ -160,15 +160,9 @@ article {
 text-indent: -990000px;
 }
 
-footer nav {
-display: none;
 }
 
-}
 
-/* mobile landscape size to tablet standard (devices and browser) -------------------
--------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------*/
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 
@@ -200,25 +194,13 @@ display: block;
 margin: 0 auto 02.0833333% auto;
 }
 
-header nav {
-float: none;
-margin-top: 40px;
-}
+
 
 #logo {
 float: none;
 margin: 01.0416667% auto 01.5625% auto;
 }
 
-header li {
-font-size: 1.5em;
-float: none;
-width: 300px;
-margin: 0 auto;
-margin-bottom: 5px;
-border: 2px solid white;
-border-radius: 5px;
-}
 
 h2, h3 {
 padding-top: 40px;
