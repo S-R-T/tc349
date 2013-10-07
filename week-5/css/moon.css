@@ -73,29 +73,6 @@ clear: left;
 
 
 
-#halleydetail {
-width: 96.875%; /* 930px; */
-padding: 01.5625% 0 0 0;
-margin: 0 auto;
-}
-#halleydetail p {
-color: #5F11C1;
-font-size: .75em;
-padding: 02.0833333%;
-width: 95%; /*880px;*/
--moz-column-count: 3;
--moz-column-gap: 01.0416667%;
--o-column-count: 3;
--o-column-gap: 01.0416667%;
--webkit-column-count: 3;
--webkit-column-gap: 01.0416667%;
-column-count: 3;
-column-gap: 01.0416667%;
-background-image: url(../images/stars_1.jpg);
-background-color: #1F81C1;
-border-radius: 7px;
-clear: both;
-}
 #maincontent p {
 
 color: white;
@@ -106,7 +83,7 @@ width: 56.25%;
 text-align: center;
 }
 
-/*-------fun facts-------*/
+
 
 aside {
 color: white;
@@ -120,7 +97,7 @@ margin: -141px 0 0 0;
 list-style: circle;	
 }
 
-/*-------fun facts end-------*/
+
 
 article {
 color: #C5A931;
@@ -130,7 +107,6 @@ padding-left: 01.5625%;
 }
 
 
-/* Table ================================*/
 
 table {
 float: left;
@@ -157,16 +133,12 @@ background-color: white;
 width: 300px;
 }
 
-/* Table end ================================*/
 
 
 
 
-/* =media queries
-==============================================*/
 
 
-/* tablet portrait size to standard 960 (devices and browser) */
 
 @media screen and (min-width: 768px) and (max-width: 959px) {
 
