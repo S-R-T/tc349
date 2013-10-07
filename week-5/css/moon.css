@@ -21,7 +21,7 @@ border-color: rgba(126, 126, 126, .5);
 background-color: #777;
 border-width: 2px;
 
-box-shadow: 2px 0px 5px #172742, -2px 0px 5px #172742;
+box-shadow: 2px 0px 5px #162534, -2px 0px 5px #162534;
 
 }
 
@@ -69,22 +69,6 @@ margin: 05.2% 0 02.%;
 clear: left;
 }
 
-/*--------main photo start ------*/
-
-#mainphotosection img {
-border: 7px solid rgba(126, 126, 126, .5);
-border-radius: 00.73%;
-float: left;
-margin-left: 0%;
-width: 70%;
-height: 43%
-}
-
-#mainphotosection p {
-padding: 01.0416667%;
-}
-
-/*--------main pic end ------*/
 
 
 
@@ -201,33 +185,6 @@ box-shadow: none;
 border: none;
 }
 
-#mainphotosection img {
-float: none;
-width: 85%;
-display: block;
-margin: 0 auto;
-}
-
-#mainphotosection p {
-margin: 01.5625% auto;
-text-align: center;
-font-size: 1em;
-width: 85%;
-clear: left;
-}	
-
-#halleydetail p {
-font-size: 1em;
--moz-column-count: 2;
--moz-column-gap: 01.0416667%;
--o-column-count: 2;
--o-column-gap: 01.0416667%;
--webkit-column-count: 2;
--webkit-column-gap: 01.0416667%;
-column-count: 2;
-column-gap: 01.0416667%;
-}
-
 article {
 text-indent: -990000px;
 }
@@ -298,37 +255,6 @@ text-align: center;
 margin: 05.2083333% auto 02.0833333% auto;
 }
 
-#mainphotosection img {
-float: none;
-width: 85%;
-display: block;
-margin: 0 auto;
-}
-
-#mainphotosection p {
-text-align: center;
-font-size: 1em;
-padding: 01.0416667%;
-width: 85%;
-}	
-
-#halleydetail {
-width: 95%;
-margin: 0 auto;
-}
-
-#halleydetail p {
-margin: 0;
-font-size: 1em;
--moz-column-count: 1;
--moz-column-gap: 0px;
--o-column-count: 1;
--o-column-gap: 0px;
--webkit-column-count: 1;
--webkit-column-gap: 0px;
-column-count: 1;
-column-gap: 0px;
-}
 
 dl li {
 float: none;
@@ -423,37 +349,6 @@ text-align: center;
 margin: 05.2083333% auto 02.0833333% auto;
 }
 
-#mainphotosection img {
-float: none;
-width: 85%;
-display: block;
-margin: 0 auto;
-}
-
-#mainphotosection p {
-text-align: center;
-font-size: 1em;
-padding: 01.0416667%;
-width: 85%;
-}	
-
-#halleydetail {
-margin: 0 auto;
-width: 95%;
-}
-
-#halleydetail p {
-margin: 0 auto;
-font-size: 1em;
--moz-column-count: 1;
--moz-column-gap: 0px;
--o-column-count: 1;
--o-column-gap: 0px;
--webkit-column-count: 1;
--webkit-column-gap: 0px;
-column-count: 1;
-column-gap: 0px;
-}
 
 dl li {
 float: none;
@@ -478,13 +373,8 @@ text-indent: -990000px;
 margin: 0;
 }
 
-footer div {
-margin: 0 auto;
-text-align: center;
-}
 
-footer nav {
-display: none;
-}
+
+
 
 }
