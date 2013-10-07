@@ -254,7 +254,7 @@ width: 140px;
 /* form =====================================*/
 
 
-h5 {	
+h4 {	
 line-height: 125%;
 color: #0E2755;
 text-shadow: 1px 1px 1px #7992C1;
@@ -493,7 +493,7 @@ border: 2px solid white;
 border-radius: 5px;
 }
 
-h2, h3, h4 {
+h2, h3 {
 padding-top: 40px;
 text-align: center;
 margin: 05.2083333% auto 02.0833333% auto;
