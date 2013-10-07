@@ -26,51 +26,6 @@ box-shadow: 2px 0px 5px #172742, -2px 0px 5px #172742;
 
 }
 
-/*----- header ----------*/
-header {
-background-image: -o-linear-gradient(bottom, #5F82C1 20%, #5F82C1 48%, #7E7E7E 83%);
-background-image: -moz-linear-gradient(bottom, #5F82C1 20%, #5F82C1 48%, #7E7E7E 83%);
-background-image: -webkit-linear-gradient(bottom, #5F82C1 20%, #5F82C1 48%, #7E7E7E 83%);
-background-image: -ms-linear-gradient(bottom, #5F82C1 20%, #5F82C1 48%, #7E7E7E 83%);
-}
-
-header li, footer li {
-   list-style: none;
-}
-
-header nav {
-float: right;
-}
-
-header li {
-float: right;
-width: 140px;
-}
-
-header a:link {
-text-decoration: none;
-height: 35px;
-line-height: 35px;
-text-align: center;
-color: white;
-background-color: #5F81C1;
-display: block;
-outline: none;	
-}
-
-header a:visited {
-color: white;
-}
-
-header a:hover {
-color: #0E2755;
-}
-
-header a:active {
-color: #C5A931;
-}
-
-/*-----------header end-----------*/
 
 li {
 list-style: circle;
@@ -135,32 +90,7 @@ padding: 01.0416667%;
 /*--------main pic end ------*/
 
 
-/*-------gallery here--------*/
- 
-dl {
-list-style-type: none;
-width: 98%; /* 930px; */
-margin: 0 auto;
-border-radius: .7291667%;
-padding: .625%;
-background-color: rgba(126, 126, 126, .6);
-overflow: hidden;
-}
 
-dl li {
-float: left;
-Margin: .625%;	
-}
-
-.gallery {
-border: 1px solid white;
-display: block;
-width: 297px;
-height: 195px;
-outline: 0;
-}
-
-/*-------gallery end--------*/
 
 #halleydetail {
 width: 96.875%; /* 930px; */
