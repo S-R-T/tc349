@@ -14,14 +14,13 @@ margin: 01.0416667% 0 0 0;
 
 #mooney {
 width: 100%;
+height: 100%;
 border-right: solid;
 border-left: solid;
 border-color: rgba(126, 126, 126, .5);
 background-color: #777;
 border-width: 2px;
--moz-box-shadow: 2px 0px 5px #172742, -2px 0px 5px #172742;
--o-box-shadow:	2px 0px 5px #172742, -2px 0px 5px #172742;
--webkit-box-shadow: 2px 0px 5px #172742, -2px 0px 5px #172742;
+
 box-shadow: 2px 0px 5px #172742, -2px 0px 5px #172742;
 
 }
