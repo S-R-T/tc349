@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-7"/>
+<meta name=”kinetics” content=”width=initial-scale=1, maximum-scale=1”/>	
+<link href="css/moon.css" rel="stylesheet" type="text/css">	
+
+<title>Kinetics</title>
+</head>
+
+<body style="font-family: courier;">
+
+
+
+<section>
+
+
+<h1>Various kinds of psychokinetics</h1>
+
+
+
+</section>
+
+
+<Table>
+<tr>
+<th>Type</th>
+<th>description</th>
+</tr>
+<tr>
+<td>1</td>
+<td> Phases of the Moon are caused by a shadow from the Earth, clouds, or the Earth's or Moon's rotation.</td>
+</tr>
+<tr>
+<td>2</td>
+<td> Different countries see different phases of the Moon on the same day.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The Moon goes around the Earth in a single day.</td>
+</tr>
+<tr>
+<td>4</td>
+<td> The Moon makes its own light (the same way the Sun does).</td>
+</tr>
+<tr>
+<td>5</td>
+<td>The Moon does not rotate.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>The same half of the Moon is in darkness all the time-i.e. that there is a dark side of the Moon.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>The Moon has no gravity; things float "up" when dropped on the Moon.</td>
+</tr>
+<td>8</td>
+<td>The Moon is only visible at night.</td>
+</tr>
+<td>9</td>
+<td> The Moon becomes larger on the horizon because it is closer to Earth.</td>
+</tr>
+</table>
+
+</div>
+
+
+</body>
+
+</html> 
