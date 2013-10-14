@@ -4,8 +4,6 @@
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
   <title>Inline</title>
   <style type="text/css" media="screen">
-
-
 body {
     padding-top: 3em;
     text-align: center;
@@ -13,14 +11,15 @@ body {
 div {
     background-color: #aaa;
     display: inline-block;
+    width: 20%;
+    vertical-align: middle; /* Feel free to change this value, here are your options: baseline | sub | super | top | text-top | middle | bottom | text-bottom | <percentage> | <length> | inherit */
     
-    vertical-align: middle; 
+    /* Fix for IE7 and below */
     zoom: 1;
     *display: inline;
 }
 .alpha {
     height: 4.5em;
-    margin: 15px;
 }
 .beta {
     height: 6em;
