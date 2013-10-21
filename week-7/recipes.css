@@ -13,9 +13,9 @@ h1 {
   background: url(images/logo.png) no-repeat;
   height: 100px;
   width: 800px;
-  padding: 20px 15px;
+  text-indent: -9000px;
   color: #fff;
-  text-shadow: 1px 1px 2px #424242;
+  margin: 20px 0 0 0;
 }
 
 h3{
@@ -29,6 +29,7 @@ h3{
 
 #recipes {
   padding: 15px;
+  background: #fff;
 }
 
 table, tr, td {
