@@ -1,5 +1,5 @@
 body{
-  background: #ccc;
+  background: url(images/bg.png);
   margin: 0;
   font-family: "Helvetica", sans-serif;
   line-height: 1.4em;
@@ -10,8 +10,9 @@ h1, h2, h3 {
 }
 
 h1 {
-  background: url(images/logo.png);
+  background: url(images/logo.png) no-repeat;
   height: 100px;
+  width: 800px;
   padding: 20px 15px;
   color: #fff;
   text-shadow: 1px 1px 2px #424242;
