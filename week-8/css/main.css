@@ -109,11 +109,12 @@ header {
 
 h1, h2, p {
    margin: 0;
-   padding: 0px;
+   padding: 40px;
 }
 
 h1{
    padding-top: 200px;
+   color: #fff;
 }
 
 h2 {
