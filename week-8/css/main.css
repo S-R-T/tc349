@@ -112,13 +112,13 @@ h1, h2, p {
 }
 
 h1{
-   padding-top: 250px;
-   color: #fff;
+   padding-top: 300px;
+   color: #ccc;
 }
 
 h2 {
    font-weight: normal;
-   color: #fff;
+   color: #ccc;
 }
 
 #map-location {
