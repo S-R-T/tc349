@@ -103,7 +103,7 @@ body {
 
 header {
    background: url(../img/dog.jpg);
-   height: 370px;
+   height: 350px;
    padding: 40px;
 }
 
@@ -113,7 +113,7 @@ h1, h2, p {
 }
 
 h1{
-   padding-top: 350px;
+   padding-top: 250px;
 }
 
 h2 {
