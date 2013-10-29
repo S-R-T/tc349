@@ -104,15 +104,30 @@ body {
 header {
    background: url(../img/dog.jpg);
    height: 400px;
+   padding: 40px;
 }
 
+h1, h2, p {
+   margin: 0;
+   padding: 40px;
+}
 
+h1{
+   padding-top: 390px;
+}
 
+h2 {
+   font-weight: normal;
+}
 
+#map-location {
+   background: #e3e3e3;
+}
 
-
-
-
+nav {
+   float: left;
+   width: 250px;
+}
 
 /* ==========================================================================
    Helper classes
