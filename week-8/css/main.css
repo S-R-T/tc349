@@ -119,10 +119,12 @@ h1{
 
 h2 {
    font-weight: normal;
+   color: #fff;
 }
 
 #map-location {
    background: #e3e3e3;
+   padding: 40px;
 }
 
 nav {
