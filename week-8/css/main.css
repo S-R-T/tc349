@@ -97,13 +97,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+   border-top: 10px solid #424242;
+}
 
-
-
-
-
-
-
+header {
+   background: url(../img/dog);
+   height: 400px;
+}
 
 
 
