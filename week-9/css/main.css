@@ -124,7 +124,7 @@ h2 {
 #map-location {
    background: #a3a3a3;
    background-position: center;
-   background-image: url('../img/map-pin.jpg');
+   /* background-image: url('../img/map-pin.jpg'); */
    height: 250px;
 }
 
