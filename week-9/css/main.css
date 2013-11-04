@@ -111,6 +111,11 @@ h1, h2, p {
    margin: 0;
 }
 
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
 h1{
    padding-top: 300px;
    color: #111;
@@ -124,8 +129,8 @@ h2 {
 #map-location {
    background: #a3a3a3;
    background-position: center;
-   /* background-image: url('../img/map-pin.jpg'); */
    height: 250px;
+   transition: background-image 2s;
 }
 
 nav {
@@ -135,6 +140,18 @@ nav {
 
 article {
    margin-left: 300px;
+}
+
+.gallery li {
+	display: inline-block;
+	margin: 0 2% 2% 0;
+	border: 5px solid #fff;
+	box-shadow: 0 0 10px #ccc;
+	transition: border-color .3s
+}
+
+.gallery li:hover {
+	border-color: #abccf9;
 }
 
 /* ==========================================================================
