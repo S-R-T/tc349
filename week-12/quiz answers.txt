@@ -1,0 +1,11 @@
+
+  1 True 
+  2 False, will need a FEIN
+  3 False, must be filed every year
+  4 Depending on the type of business, it could cover damages you are responsible for
+  5 True
+  6 ~$81/hour
+  7 False, belongs to paying party
+  8 'Loyal Local Sales & Networking Event 2014' and 'ConFoo Conference 2014'
+  9 False, it risks losing liability protection.
+ 10 Read, listen, think, talk and write about your industry. Form opinions and share them with the community, guest post on more established blogs in your industry to help build your name, and generally be as involved as you can in your professional community.
