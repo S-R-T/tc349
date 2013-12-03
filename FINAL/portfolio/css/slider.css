@@ -6,7 +6,6 @@
 	overflow: hidden;
 	margin: 0 auto;
 	border-bottom: 1px solid #dadada;
-	background: url(../images/sl_shadow.png) bottom center no-repeat #fff;
 }
 
 
@@ -44,7 +43,7 @@
 	color: #fff;	
 	padding-top: 193px;
 	width: 203px;
-	background: #333131;
+	background: #5f2727;
 }
 
 .slider .banner span {

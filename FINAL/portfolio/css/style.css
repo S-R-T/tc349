@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-	color: #4585b7;
+	color: #a43210;
 	font-size: 30px;
 	line-height: 34px;
 	background: url(../images/icon1.png) right bottom no-repeat;
@@ -101,7 +101,7 @@ ul.list li>span {
 	margin-top: 4px;
 	float: left;
 	display: block;
-	background: #c9e54e;
+	background: #dcda19;
 	color: #fff;
 	margin-right: 32px;
 	width: 48px;
@@ -113,7 +113,7 @@ ul.list li>span {
 }
 
 ul.list li>span.cnt {
-	background: #f98d0d;
+	background: #e49a39;
 }
 
 ul.list li>span time  {
@@ -122,17 +122,17 @@ ul.list li>span time  {
 }
 
 
-ul.list li>span span {
+/*ul.list li>span span {
 	margin-top: -2px;
 	display: block;
-	font-size: 10px;
-}
+	font-size: 20px;
+}*/
 
 
-ul.list.l1 li>span time {
+/*ul.list.l1 li>span time {
 	display: block;
 	padding-top: 17px;
-}
+}*/
 
 ul.list.l1 li .col1 {
 	margin-bottom: 41px;
@@ -286,6 +286,7 @@ a.btn:hover {
 }
 .wrapper, .extra_wrapper {
 	overflow: hidden;
+	color: #111
 }
 .clear {
 	float: none !important;
