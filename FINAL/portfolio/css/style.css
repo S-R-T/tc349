@@ -101,7 +101,7 @@ ul.list li>span {
 	margin-top: 4px;
 	float: left;
 	display: block;
-	background: #dcda19;
+	background: #fcda44;
 	color: #fff;
 	margin-right: 32px;
 	width: 48px;
@@ -156,7 +156,7 @@ ul.list1 span {
 		margin-top: 4px;
 	float: left;
 	display: block;
-	background: #c9e54e;
+	background: #fcda44;
 	margin-right: 67px;
 }
 
@@ -607,3 +607,4 @@ address dd span {
 }
 
 
+/*---------------------------------------*/
