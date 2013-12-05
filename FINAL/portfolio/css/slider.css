@@ -1,6 +1,6 @@
 
 
-/*Slider*/
+
 .slider-relative {
 	position:relative;
 	overflow: hidden;
@@ -52,7 +52,7 @@
 
 .slider .banner i {
 	font-style: normal;
-	color: #c9e54e;
+	color: #fcda44;
 }
 
 .slider .banner p {
