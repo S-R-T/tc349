@@ -1,4 +1,7 @@
- 
+ /*
+VALIDATED AT
+http://jigsaw.w3.org/css-validator/validator
+        */
 .menu_block  {
 	position: relative;
 	float: right;
@@ -61,7 +64,6 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 
 
-/*================================>> 2 Level <<========================================*/
 .sf-menu li ul,.sf-menu li.sfHover>ul{
 	top:27px;
 	left: -14px;
@@ -100,7 +102,6 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 }
 
-/*================================>> 3 Level <<========================================*/
 .sf-menu li.sfHover li.sfHover ul{
 	padding-top: 1px;
 	top: 0 !important;

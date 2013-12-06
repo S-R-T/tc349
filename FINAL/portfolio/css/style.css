@@ -1,8 +1,11 @@
-
+/*
+VALIDATED AT
+http://jigsaw.w3.org/css-validator/validator
+        */
 @import "../css/reset.css";
 @import "../css/grid.css";
 @import "../css/superfish.css";
-
+@import "../css/slider.css";
 
 
 
@@ -15,9 +18,7 @@ color: inherit;
 text-decoration:none;
 }
 
- {
-	-webkit-text-size-adjust: none;
-}
+
 
 
 body {
@@ -535,4 +536,6 @@ a.next:hover {
 #toTop:hover {
 	background-position: 0 bottom;
 }
+
+
 
