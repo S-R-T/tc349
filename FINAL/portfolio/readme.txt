@@ -5,3 +5,6 @@ It passed validation(the css i had to run through a different validator) but the
 Wasn't 100% sure what to put up for the preproduction work as I usually work things out as I go along.
 
 I'm sure there some things I've forgot to mention so please be patiant with me if I'm missing some info.
+
+But for now, here's the link : http://s-r-t.github.io/index.html
+mobile stuff may act a bit weird in places
